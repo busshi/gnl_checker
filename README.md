@@ -14,7 +14,7 @@ git clone https://github.com/busshi/gnl_checker.git && cd gnl_checker && ./gnl_c
 
 Go into the gnl_checker directory and run ./gnl_checker.sh
 
-Notes :
+Usage:
 ```bash
 ./gnl_checker.sh bonus # Test bonus
 ./gnl_checker.sh all # Test all
