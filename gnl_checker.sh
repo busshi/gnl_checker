@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIR="../gnl/"
+DIR="../get_next_line/"
 
 ### COLORS
 red="\e[1;31m"
